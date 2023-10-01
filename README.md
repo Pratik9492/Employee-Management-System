@@ -1,3 +1,7 @@
+![Screenshot 2023-10-01 205009](https://github.com/Pratik9492/Employee-Management-System/assets/126281388/918ad6e3-504b-498c-8881-384492fa1eca)
+![Screenshot 2023-10-01 205100](https://github.com/Pratik9492/Employee-Management-System/assets/126281388/8f7eaec3-8ba3-4c1f-88b4-cfa8421fb832)
+![Screenshot 2023-10-01 205037](https://github.com/Pratik9492/Employee-Management-System/assets/126281388/720968b9-f9d2-4b5a-8416-41b75687114f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
